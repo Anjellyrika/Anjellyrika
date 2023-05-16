@@ -8,6 +8,12 @@
 
 👀 Check out some of my [dev projects](https://github.com/Anjellyrika?tab=repositories) here on Github, or my [art](https://www.instagram.com/ajellyrawr/) on Instagram!
 
+🔨 My latest (collaborative) project:
+<br>
+<a href="https://github.com/ni-lie/IskoTool">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ni-lie&repo=IskoTool&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 💌 You can send me an e-mail at angelicaj.raborar@gmail.com
 
 💜 Thanks for stopping by!

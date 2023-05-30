@@ -10,7 +10,7 @@
 <br>
 <br>
 <a href="https://github.com/ni-lie/IskoTool">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ni-lie&repo=IskoTool&title_color=E7D8EC&text_color=E7D8EC&icon_color=E652A0&bg_color=3D2046" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ni-lie&repo=IskoTool&title_color=ffffff&text_color=ffffff&icon_color=fcc085&bg_color=1b8e76" />
 </a>
 <a href="https://github.com/smoketrace/cs145-iot-cup">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smoketrace&repo=cs145-iot-cup&title_color=322f2a&text_color=322f2a&icon_color=322f2a&bg_color=f7c185" />

@@ -2,18 +2,18 @@
 
 💬 My name is Angelica. More commonly known as **Jelly** among my peers~
 
-📚 I am currently a third-year BS in Computer Science student at the [University of the Philippines-Diliman](https://upd.edu.ph/).
+📚 I am currently a fourth-year student taking a BS in Computer Science program at the [University of the Philippines-Diliman](https://upd.edu.ph/).
 
-✨ I’ve recently developed an interest in front-end web development and UI/UX, founded on my passion for the multimedia arts field—mainly digital illustration, graphic design, video editing and animation.
+✨ I am interested in front-end web development and UI/UX design, founded on my passion for the multimedia arts field—mainly digital illustration, graphic design, video editing and animation. I am also dabbling in game development!
 
-🔨 My latest collaborative projects:
+🔨 Latest projects:
 <br>
 <br>
-<a href="https://github.com/ni-lie/IskoTool">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ni-lie&repo=IskoTool&title_color=ffffff&text_color=ffffff&icon_color=fcc085&bg_color=1b8e76" />
+<a href="https://github.com/Anjellyrika/fishdew">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjellyrika&repo=fishdew&title_color=250731&text_color=250731&icon_color=250731&bg_color=fcbd50" />
 </a>
-<a href="https://github.com/smoketrace/cs145-iot-cup">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smoketrace&repo=cs145-iot-cup&title_color=322f2a&text_color=322f2a&icon_color=322f2a&bg_color=f7c185" />
+<a href="https://github.com/BastiDood/hatid">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BastiDood&repo=hatid&title_color=fff&text_color=fff&icon_color=fffa&bg_color=206055" />
 </a>
 
 🎀 Find more of my works below!
